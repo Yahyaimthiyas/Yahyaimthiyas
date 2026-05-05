@@ -8,7 +8,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yahya%20Imthiyas&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20Spring%20Boot%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&descColor=a0aec0" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Hey+There!+I'm+Yahya+Imthiyas+%F0%9F%91%8B;Building+Scalable+Web+Apps+%7C+MERN+%2B+Spring+Boot;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Hey+There!+I'm+Yahya+Imthiyas+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+%2B+Spring+Boot+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D;Problem+Solver+%7C+DSA+Enthusiast+%F0%9F%A7%A0" alt="Typing SVG" />
 
 <!-- SOCIAL BADGES -->
 <p>
@@ -107,19 +107,23 @@ Status   : Open to Internships & Collaborations
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yahyaimthiyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahyaimthiyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Yahyaimthiyas&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=ffffff&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="48%" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yahyaimthiyas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=ffffff&langs_count=8" width="44%" />
 
 </div>
+
+<br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Yahyaimthiyas&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=Yahyaimthiyas&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&dates=888888" width="65%" />
 </div>
+
+<br/>
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahyaimthiyas&bg_color=0D1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true&area_color=7C3AED" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yahyaimthiyas&bg_color=0D1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
