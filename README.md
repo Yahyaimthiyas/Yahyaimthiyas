@@ -114,7 +114,7 @@ Status   : Open to Internships & Collaborations
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yahyaimthiyas&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" width="70%" />
+  <img src="https://streak-stats.demolab.com/?user=Yahyaimthiyas&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" width="70%" />
 </div>
 
 <!-- ACTIVITY GRAPH -->
@@ -130,8 +130,8 @@ Status   : Open to Internships & Collaborations
 <div align="center">
 
 ### 🔸 LeetCode
-<a href="https://leetcode.com/Yahyaimthiyas" target="_blank">
-  <img src="https://leetcard.jacoblin.cool/Yahyaimthiyas?theme=dark&font=Lexend&ext=contest" />
+<a href="https://leetcode.com/u/yahyaimthiyas016/" target="_blank">
+  <img src="https://leetcard.jacoblin.cool/yahyaimthiyas016?theme=dark&font=Lexend&ext=contest" />
 </a>
 
 </div>
