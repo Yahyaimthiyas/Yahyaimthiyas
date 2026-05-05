@@ -80,7 +80,7 @@ Status   : Open to Internships & Collaborations
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
 </p>
 
 </div>
